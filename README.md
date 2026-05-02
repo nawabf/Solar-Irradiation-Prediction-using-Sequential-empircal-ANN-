@@ -1,0 +1,1 @@
+# Solar-Irradiation-Prediction-using-Sequential-empircal-ANN-
